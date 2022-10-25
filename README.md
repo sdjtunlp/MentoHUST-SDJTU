@@ -82,5 +82,5 @@
 
   4. 终端执行命令：
      ```shell
-     sudo mentuhust
+     sudo mentohust
      ```
